@@ -1,0 +1,21 @@
+
+[
+    {
+        "name": "Barge 1",
+        "lat":"28632777",
+        "long":"77219722",
+        "status":"Transporting"
+    },
+    {
+        "name": "Barge 2",
+        "lat":"28532888",
+        "long":"77319900",
+        "status":"Docked"
+    },
+    {
+        "name": "Barge 3",
+        "lat":"28632888",
+        "long":"77119900",
+        "status":"Stopped"
+    }
+]
